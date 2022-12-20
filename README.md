@@ -75,3 +75,6 @@ THEN I should have proper build scripts for a webpack application
 ## Screenshot(s)
 
 ## URL(s)
+* Heroku Published URL:
+
+* GitHub Repo URL: https://github.com/Josh236061/text-editor-pwa
