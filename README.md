@@ -72,7 +72,10 @@ WHEN I deploy to Heroku
 
 THEN I should have proper build scripts for a webpack application
 
-## Screenshot(s)
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/71394743/209036691-59b1d22c-52ba-4758-8da4-726df71c63f0.png)
+
 
 ## URL(s)
 * Heroku Published URL: https://desolate-coast-35303.herokuapp.com/
